@@ -1,3 +1,4 @@
+train_llm*
 data/
 plots/
 pandas_opt.py
