@@ -1,6 +1,5 @@
 train_llm*
 data/
-plots/
 pandas_opt.py
 *.parquet
 *.DS_Store
